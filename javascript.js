@@ -11,24 +11,3 @@ togglepassword.addEventListener('click', () => {
     }
 });
 
-// const passIn = document.querySelector('pass');
-// const togg = document.querySelector('togglePassword');
-
-// togg.addEventListener('click', (e) => {
-//     e.preventDefault();
-
-//     togg.setAttribute(
-//         'class',
-//         passIn.getAttribute('type') == 'password' ?
-//         'far fa-eye'
-//           :
-//         'far fa-eye-slash'
-//     );
-//     passIn.setAttribute(
-//         'type',
-//         passIn.getAttribute('type') === 'password' ?
-//         'text'
-//           :
-//         'password'
-//     )
-// })

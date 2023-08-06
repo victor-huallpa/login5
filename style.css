@@ -63,10 +63,9 @@ form h1{
 }
 .input_group input:valid~label,
 .input_group input:focus~label{
-    color: #fff;
+    color: #db2777;
     transform: translateX(0) translateY(-35px);
-    font-size: 12px;
-    text-decoration: underline overline  red;
+    font-size: 15px;
 }
 .input_group .icon{
     position: absolute;
